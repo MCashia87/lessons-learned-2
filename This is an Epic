@@ -1,9 +1,12 @@
 In specifying a programming project it is useful to understand the difference between a story and an epic.  
 An epic is a longer project that will take more than a few days and can be broken down into multiples independent stories.  
 In breaking down an epic, each story should be:
+
 Independent
 Negotiable
 Valuable
 Estimable
 Small
 Testable
+
+As a rule of thumb, generally a story can be completed in no more than a few days and epics will generally be anything longer than this period.
